@@ -1,0 +1,4 @@
+
+ nisha 12345678 3 andhadhun 120 360
+ manisha 45677890 2 ddlj 200 400
+ aakash 34536457567 23 andhadhun 120 2760
