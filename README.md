@@ -62,3 +62,9 @@ The switch case is used for switching between this function<br>
 2. “customerrecords.txt”<br>
 
 
+# Purpose and Scope of the project
+The main purpose of this project is to provide a reliable, secure, efficient and user friendly environment to the customers and management authorities. Also benefit to the customer with efficient and faster service.<br>
+
+The project “movie ticket booking system” as a wide scope as it is generalised software and can be easily used in any ticket booking process system with little or no change. The changes in software can be easily accommodated. The addition and deletion of the modules in software can be easily adjusted. This project has a lot of scope for further enhancement too. This project can save money and efforts in managing the record, just a mouse click can make the task easy and faster.
+
+
